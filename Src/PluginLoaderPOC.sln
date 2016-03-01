@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginLoaderApp", "PluginLoader\PluginLoaderApp.csproj", "{8076F61C-D425-4A94-96E0-CD6A5A23135F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterface", "PluginInterface\PluginInterface.csproj", "{695562F9-4FF5-491D-8B1C-368322E434B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginA", "PluginA\PluginA.csproj", "{9B8E5AC2-C140-4281-9D30-EE8E46487AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlugInB", "PlugInB\PlugInB.csproj", "{0D194DD4-5939-4FA0-BF08-662DFD84F572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginManager", "PluginManager\PluginManager.csproj", "{28B497E8-05D7-4513-96EB-604D9706B8D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{82803D69-9E1C-4ABE-A9F4-E14232B7D58A}"
+	ProjectSection(SolutionItems) = preProject
+		TODO.cs = TODO.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8076F61C-D425-4A94-96E0-CD6A5A23135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8076F61C-D425-4A94-96E0-CD6A5A23135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8076F61C-D425-4A94-96E0-CD6A5A23135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8076F61C-D425-4A94-96E0-CD6A5A23135F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695562F9-4FF5-491D-8B1C-368322E434B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695562F9-4FF5-491D-8B1C-368322E434B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695562F9-4FF5-491D-8B1C-368322E434B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695562F9-4FF5-491D-8B1C-368322E434B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8E5AC2-C140-4281-9D30-EE8E46487AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8E5AC2-C140-4281-9D30-EE8E46487AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8E5AC2-C140-4281-9D30-EE8E46487AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8E5AC2-C140-4281-9D30-EE8E46487AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D194DD4-5939-4FA0-BF08-662DFD84F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D194DD4-5939-4FA0-BF08-662DFD84F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D194DD4-5939-4FA0-BF08-662DFD84F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D194DD4-5939-4FA0-BF08-662DFD84F572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B497E8-05D7-4513-96EB-604D9706B8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B497E8-05D7-4513-96EB-604D9706B8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B497E8-05D7-4513-96EB-604D9706B8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B497E8-05D7-4513-96EB-604D9706B8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
